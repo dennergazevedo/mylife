@@ -15,9 +15,6 @@ const Header: React.FC = () => {
       <Section>
         <img src={logo} alt='logo' />
       </Section>
-      <Section>
-
-      </Section>
     </Container>
   );
 }

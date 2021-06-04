@@ -9,6 +9,7 @@ export const Container = styled.div`
   width: 100%;
   background-color: ${props => props.theme.colors.background};
   border-bottom: 1px solid ${props => props.theme.colors.border};
+  height: 70px;
 `;
 
 export const Section = styled.section`
